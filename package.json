@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Project-WatchCharm/",
+    "build": "vite build --base=/html_css_111_Valeriia-Sirenko/",
     "preview": "vite preview"
   },
   "devDependencies": {
